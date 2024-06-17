@@ -61,7 +61,7 @@ const INITIAL_VIEW_STATE = {
 const minTime = 0;
 const maxTime = 350;
 const animationSpeed = 0.5;
-const mapStyle = "mapbox://styles/spear5306/ckzcz5m8w002814o2coz02sjc";
+const mapStyle = "mapbox://styles/henry8910/clx1hxuao01n001po4iyv1gh4";
 
 //  자신의 mapbox api key 입력
 // const MAPBOX_TOKEN = `mapbox api key`;
