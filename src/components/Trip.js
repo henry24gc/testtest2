@@ -63,7 +63,7 @@ const maxTime = 350;
 const animationSpeed = 0.5;
 const mapStyle = "mapbox://styles/henry8910/clx1hxuao01n001po4iyv1gh4";
 
-//  자신의 mapbox api key 입력
+//  자신의 mapbox api key 입력 
 // const MAPBOX_TOKEN = `mapbox api key`;
 const MAPBOX_TOKEN = `pk.eyJ1IjoiaGVucnk4OTEwIiwiYSI6ImNseDFmb3RuaTA2NGkyanBrNWZjM2VqdGIifQ.h1AfFgte6HQH0LmciZB_ag`;
 
